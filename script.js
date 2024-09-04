@@ -36,7 +36,7 @@ function letsplay() {
 
     // Little time out before result
     setTimeout(function() {
-            // Generate random numbers
+        // Generate random numbers
         function generateRandom(){
             var random1 = Math.floor(Math.random()*6) + 1;
             var random2 = Math.floor(Math.random()*6) + 1;
